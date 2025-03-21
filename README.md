@@ -1,7 +1,5 @@
 # Logitech ConnectUtility 2.30.9
 
-![Logitech Logo](https://www.logitech.com/assets/brand/logitech-logo.png)
-
 ## 簡介
 
 Logitech 連線公用程式 (ConnectUtility_2.30.9) 是一款官方工具，旨在幫助用戶修復或重新配對羅技無線設備（如滑鼠和鍵盤）與其 2.4GHz 接收器。無論是傳統的 2.4GHz 接收器還是 Unifying 接收器，此工具提供了一個解決方案，讓你能重新連接遺失接收器的設備。
